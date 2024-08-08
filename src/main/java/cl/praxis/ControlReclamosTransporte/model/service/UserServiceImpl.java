@@ -1,9 +1,6 @@
 package cl.praxis.ControlReclamosTransporte.model.service;
 
 
-
-
-
 import cl.praxis.ControlReclamosTransporte.model.entity.User;
 import cl.praxis.ControlReclamosTransporte.model.repository.UserRepository;
 import org.springframework.security.crypto.password.PasswordEncoder;
